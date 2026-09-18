@@ -9,7 +9,6 @@
 
 Apuntes que fui tomando mientras aprendía a usar Nmap en condiciones: no solo lanzar `nmap -A` y ya, sino entender qué hace cada tipo de escaneo por dentro, cuándo conviene usarlo y cómo hacerlo más sigiloso. Lo comparto por si le sirve a alguien más que esté empezando, como yo.
 
-> ⚠️ Todo esto lo practiqué contra **Metasploitable 2**, una máquina virtual pensada precisamente para practicar (está llena de vulnerabilidades a propósito). Nunca escanees redes o sistemas que no sean tuyos o para los que no tengas permiso explícito.
 
 ---
 
