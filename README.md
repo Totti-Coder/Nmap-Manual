@@ -1,6 +1,4 @@
-# Nmap-Recon-Handbook
-
-## A Practical Guide to Network Reconnaissance with Nmap
+# Manual-Nmap
 
 ![Nmap](https://img.shields.io/badge/tool-Nmap-0A5C7C?logo=nmap&logoColor=white)
 ![Level](https://img.shields.io/badge/level-Beginner--Friendly-brightgreen)
